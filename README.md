@@ -4,7 +4,7 @@
 Ce projet a été réalisé sous la collaboration de :
   
   * [Mariem ben hssan ](https://github.com/mariembenhssan)
-  * [slim bouzidi ]([https://github.com/sli](https://github.com/Sliim-Bouzidi))
+  * [sliim bouzidi ](https://github.com/Sliim-Bouzidi)
 
 
 
