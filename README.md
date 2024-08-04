@@ -3,13 +3,13 @@
 #### **Contributeurs :**
 Ce projet a été réalisé sous la collaboration de :
   
-  * [Ayoub HMADOUCH ](https://github.com/AyoubHmadouch)
-  * [Abdessamad EL HAFI](https://github.com/abdoelhafi)
-  * [FOUAD EL FAKHORI](https://github.com/fFakhori)
-  * [Abderahmane KOTBI](https://github.com/abdorah)
+  * [Mariem ben hssan ](https://github.com/mariembenhssan)
+  * [slim bouzidi ]([https://github.com/sli](https://github.com/Sliim-Bouzidi))
+
+
 
 #### **Supervisé par** 
-* Pr. Mahmoud EL HAMLAOUI
+* Mme. aljia bouzidi
 
 ---
 ### **Objectif du projet:**
