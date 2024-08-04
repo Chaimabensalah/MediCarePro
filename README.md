@@ -13,7 +13,7 @@ Ce projet a été réalisé sous la collaboration de :
 
 ---
 ### **Objectif du projet:**
-Le but de ce projet est de concevoir et de développer une application qui permet la gestion d'un cabinet médical(Prise des rendez-vous en ligne,gestion des patients...),en utlisant la plateforme de développement JAVA EE.
+Le but de ce projet est de concevoir et de développer une application qui permet la gestion d'un cabinet médical(Prise des rendez-vous en ligne,gestion des patients...).
 
 ---
 ### **Outils de développement**
